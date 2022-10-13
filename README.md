@@ -10,6 +10,6 @@ By exploring different types of customer segments and explaining why they are a 
 using the methods of unsupervised learning (K-Means, Agglomerative, K-Medoids), we will
 identify the key characteristics of their clusters.
 ## Project Analysis Report
-It's a 34-page technical analysis report describing this project in depth. Code is also uploaded. 
+It's a 34-page technical analysis report describing this project in depth. Code is also uploaded namely "Customer Personality Analysis using Unsupervised Machine Learning.ipynb".
 ## Project Presentation
 This is a 45-page presentation slide deck designed to introduce this project in 30 minutes. 
