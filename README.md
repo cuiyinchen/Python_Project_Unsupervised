@@ -1,4 +1,4 @@
-# Python Porject
+# Python Project
 School Project - Customer Personality Analysis using Unsupervised Machine Learning 
 ## Introduction to the project: 
 The purpose of this python project is to analyze customer personalities in the data
