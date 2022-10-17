@@ -1,5 +1,5 @@
 # Python Project
-School Project - Customer Personality Analysis using Unsupervised Machine Learning 
+Customer Personality Analysis using Unsupervised Machine Learning 
 ## Introduction to the project: 
 * The purpose of this python project is to analyze customer personalities in the data
 set provided by Kaggle. It is a detailed analysis of the company's ideal customers. The results of
