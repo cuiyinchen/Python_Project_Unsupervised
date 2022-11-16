@@ -16,7 +16,7 @@ identify the key characteristics of their clusters.
 * Seaborn
 * Sklearn
 ## Project Analysis Report
-It's a 34-page technical analysis [report](https://drive.google.com/file/d/1O4Ccb2Z7SbQFXbGIf2O3nB0Dc-l1yNkE/view?usp=sharing) describing this project in depth. The [script](https://github.com/cuiyinchen/Python_Project_Unsupervised/blob/main/Customer%20Personality%20Analysis%20using%20Unsupervised%20Machine%20Learning.ipynb) is also uploaded.
+It's a 34-page technical analysis [report](https://drive.google.com/file/d/1O4Ccb2Z7SbQFXbGIf2O3nB0Dc-l1yNkE/view?usp=sharing) describing this project in depth. The [script](https://github.com/cuiyinchen/Python_Project_Unsupervised/blob/main/Customer%20Personality%20Analysis%20-%20Unsupervised%20Machine%20Learning.ipynb) is also uploaded.
 ## Project Presentation
 This is a 45-page [presentation](https://docs.google.com/presentation/d/1IKjdhfqnEQtIfdQh7n8kDq-t1j3BnHOp/edit?usp=sharing&ouid=106747048720024477786&rtpof=true&sd=true) slide deck designed to introduce this project in 30 minutes. 
 ### Course Topic
